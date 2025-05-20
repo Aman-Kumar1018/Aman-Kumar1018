@@ -1,5 +1,5 @@
-
-<img src="https://medium.com/@ravinduwijerathne629/develop-full-stack-web-application-using-mern-stack-47538c48458f" alt="MasterHead" width="1000" height="200">
+<div align="center">
+<img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*jyvi6rdhEWdbKbybyuht9w.png" align="center" alt="MasterHead" width="800" height="300">
 <h1 align="center">Hi 👋, I'm Aman Kumar</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif">
